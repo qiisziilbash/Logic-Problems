@@ -4,8 +4,11 @@ This is an archive of amazing logic problems that requires out-of-box thinking
 # How can you contribute?
 
 >> add more problems
+
 >> add a new answer to one of the problems
+
 >> add a hint to a problem
+
 >> fix the ambiguities in the problems, answers, or the hints
 
 # Some notes on the project
