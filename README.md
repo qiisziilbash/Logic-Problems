@@ -1,7 +1,7 @@
 # logic-problems
 This is an archive of amazing logic problems that requires out-of-box thinking
 
-# how can you contribute?
+# How can you contribute?
 
 >> add more problems
 >> add a new answer to one of the problems
