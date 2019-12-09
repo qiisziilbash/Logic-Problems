@@ -1,0 +1,18 @@
+#001. U r on top of a building with 200m with 150m rope and a knife. There is one hook on top of building and one in the mid way(you are secure in midway without a rope). How would u get to the ground?
+
+#002. U have 4 sets of chains each with 3 circles. How many times at minimum  do you need to cut and weld a circle to make a circular chain with 12 circles?
+
+#003. There are 35 coins in a table 10 heads up. Your touch and vision is blind, how would you move some of these coins to another table to have the same amount of coins heads up in the tables?
+
+#004. U have 100 marbles, 50 red and 50 blue. How would you divide them in 2 jars which if you pick one marble blindly from one of the jars picking red has maximum chance?
+
+#005. U have 101 coins which only 1 is fake, either lighter or heavier than the others. How many times you have to use a traditional scale to tell the fake coin is lighter or heavier than the others?
+
+#006. There are 10 bags of coins which one bag is all fake coins. There are plenty of coins in each bag and fake coins are 9 grams while real coins are 10 grams. How many times you would use a digital scale to say which bag is fake?
+
+#007. There are 5 holes a fox in one of them, every night he moves either to the left or right hole. How many days you need to catch the fox if you can only check one hole every day?
+
+#008. You have 8 batteries which 4 of them are broken. Ur flashlight needs 2 batteries, how many times at worst you need to try a pair of batteries to guarantee you light up your flashlight? 
+
+
+
