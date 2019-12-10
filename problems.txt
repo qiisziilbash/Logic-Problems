@@ -1,32 +1,56 @@
-#001. U r on top of a building with 200m with 150m rope and a knife. There is one hook on top of building and one in the mid way (you are secure in midway without a rope). How would u get to the ground?
+#001. U r on top of a building with 200m with 150m rope and a knife. There is one hook on top of building and one in the
+      mid way (you are secure in midway without a rope). How would u get to the ground?
 
-#002. U have 4 sets of chains each with 3 circles. How many times at minimum  do you need to cut and weld a circle to make a circular chain with 12 circles?
+#002. U have 4 sets of chains each with 3 circles. How many times at minimum  do you need to cut and weld a circle to
+      make a circular chain with 12 circles?
 
-#003. There are 35 coins in a table 10 heads up. Your touch and vision is blind, how would you move some of these coins to another table to have the same amount of coins heads up in the tables?
+#003. There are 35 coins in a table 10 heads up. Your touch and vision is blind, how would you move some of these coins
+      to another table to have the same amount of coins heads up in the tables?
 
-#004. U have 100 marbles, 50 red and 50 blue. How would you divide them in 2 jars which if you pick one marble blindly from one of the jars picking red has maximum chance?
+#004. U have 100 marbles, 50 red and 50 blue. How would you divide them in 2 jars which if you pick one marble blindly
+      from one of the jars picking red has maximum chance?
 
-#005. U have 101 coins which only 1 is fake, either lighter or heavier than the others. How many times you have to use a traditional scale to tell the fake coin is lighter or heavier than the others?
+#005. U have 101 coins which only 1 is fake, either lighter or heavier than the others. How many times you have to use a
+      traditional scale to tell the fake coin is lighter or heavier than the others?
 
-#006. There are 10 bags of coins which one bag is all fake coins. There are plenty of coins in each bag and fake coins are 9 grams while real coins are 10 grams. How many times you would use a digital scale to say which bag is fake?
+#006. There are 10 bags of coins which one bag is all fake coins. There are plenty of coins in each bag and fake coins
+      are 9 grams while real coins are 10 grams. How many times you would use a digital scale to say which bag is fake?
 
-#007. There are 5 holes a fox in one of them, every night he moves either to the left or right hole. How many days you need to catch the fox if you can only check one hole every day?
+#007. There are 5 holes a fox in one of them, every night he moves either to the left or right hole. How many days you
+      need to catch the fox if you can only check one hole every day?
 
-#008. You have 8 batteries which 4 of them are broken. Ur flashlight needs 2 batteries, how many times at worst you need to try a pair of batteries to guarantee you light up your flashlight? 
+#008. You have 8 batteries which 4 of them are broken. Ur flashlight needs 2 batteries, how many times at worst you need
+      to try a pair of batteries to guarantee you light up your flashlight?
 
-#009. There are 100 priosoners lined up facing in one direction. each of them has an either a black hat or a white hat. Everyone can see the color of hats of people in front of them. (First person sees no one's hat and the last person sees 99 people's hat). I ask the color of hat of each person from the back and they can either say white or black; and if they are right they are free to go otherwise they will die. What strategy they should take that they can have maximum people to survive? 
+#009. There are 100 priosoners lined up facing in one direction. each of them has an either a black hat or a white hat.
+      Everyone can see the color of hats of people in front of them. (First person sees no one's hat and the last person
+      sees 99 people's hat). I ask the color of hat of each person from the back and they can either say white or black;
+      and if they are right they are free to go otherwise they will die. What strategy they should take that they can
+      have maximum people to survive?
 
-#010. There 4 prisoners lined up facing one direction. First and third persons have black hats and the second and forth persons have white hats. Everyone can see the color of hats of people in fromt of them. There is also a wall between third and forth persons. So no one can see the color of forth person's hat. They all know that there are only two white and two black hats. I ask them if anyone knows the color of their hat for sure, speaks up. Who would be that person?
+#010. There 4 prisoners lined up facing one direction. First and third persons have black hats and the second and forth
+      persons have white hats. Everyone can see the color of hats of people in fromt of them. There is also a wall
+      between third and forth persons. So no one can see the color of forth person's hat. They all know that there are
+      only two white and two black hats. I ask them if anyone knows the color of their hat for sure, speaks up. Who
+      would be that person?
 
-#011. While you are changing your flat tire, you lose all the four screw nuts; what would you do in order to drive back to your home?  
+#011. While you are changing your flat tire, you lose all the four screw nuts; what would you do in order to drive back
+      to your home?
 
-#012. Let's say you are in island A and your friend is in island B; you both have several old style boxes and locks plus their keys. You want to send a letter to your friend which a crow will carry it for you but you don't want the crow to read your letter. How would you send your letter to your friend using your boxes and locks?
+#012. Let's say you are in island A and your friend is in island B; you both have several old style boxes and locks plus
+      their keys. You want to send a letter to your friend which a crow will carry it for you but you don't want the
+      crow to read your letter. How would you send your letter to your friend using your boxes and locks?
 
-#013. you have 8 coins which only one of them is slightly lighter than the other; how many times at minimum do you need to use a traditional scale to say which one is lighter?
+#013. you have 8 coins which only one of them is slightly lighter than the other; how many times at minimum do you need
+      to use a traditional scale to say which one is lighter?
 
-#014. There are three doors that one opens to heaven and others open to the hell. an angle ask you to choose one and after you make your choice the angle opens one of the other two doors which opens to the hell. Then, the angle asks you whther you want to change your decision or not. Would you change your decision? why?
+#014. There are three doors that one opens to heaven and others open to the hell. an angle ask you to choose one and
+      after you make your choice the angle opens one of the other two doors which opens to the hell. Then, the angle
+      asks you whther you want to change your decision or not. Would you change your decision? why?
 
-#015. There are two doors one opens to the hell and one to the heaven. There are two angles in front of each doors. You know that one of them always lies and the other always tells the truth. You have only one chance to ask a question. what would be your question to find out which door opens to the heaven?  
+#015. There are two doors one opens to the hell and one to the heaven. There are two angles in front of each doors.
+      You know that one of them always lies and the other always tells the truth. You have only one chance to ask a
+      question. what would be your question to find out which door opens to the heaven?
 
 
 
