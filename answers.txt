@@ -1,4 +1,5 @@
-#001. Cut the rope to 50 and 150 sections and hook the 50 section on top and rapple from the end of it with 150 section to the mid hook and get to the ground with 150 section.
+#001. Cut the rope to 50 and 150 sections and hook the 50 section on top and rapple from the end of it with 150 section
+      to the mid hook and get to the ground with 150 section.
 
 #002. 3 times, use all 3 circles of one chain and use them to connect the other 3 chains.
 
@@ -10,7 +11,8 @@
 
 #005. divide to 50 50 1 compare 50s if not equal pick lighter and divide by 25 25.
 
-#006. 1, get i coins from bag number i and weigh them all together, if it is i gram lighter than sum of the true coins, the fake coin is from bag i
+#006. 1, get i coins from bag number i and weigh them all together, if it is i gram lighter than sum of the true coins,
+      the fake coin is from bag i
 
 #007. 6, look for holes 2,3,4,2,3,4.
 
